@@ -1,5 +1,7 @@
 fitflex demo video link: https://drive.google.com/file/d/1XwiUWeYu6-tMRw7vpynVzKTuOrSLlZo7/view?usp=drivesdk
 
+fitfkex documentation link:https://drive.google.com/file/d/1ErIFUfVfOlWmyd0EFsesQFhNFLnj7p2F/view?usp=drivesdk
+
 
 # Getting Started with Create React App
 
